@@ -1,7 +1,9 @@
+import AllTables from "../common/features/AllTables";
+
 const Homepage = () => {
     return (
         <>
-            <h1>Homepage: All tables</h1>
+            <AllTables />
         </>
     )
 }
